@@ -14,4 +14,8 @@ Feel free to check out my repositories and get in touch!
 - [LinkedIn](https://www.linkedin.com/in/mahmudul-islam-mahin/)
 - [Twitter](https://x.com/M_I_Mahin)
 
+### My GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MI-Mahin&layout=compact)
+
 
