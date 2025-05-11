@@ -61,7 +61,7 @@ Feel free to check out my repositories and get in touch!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter Notebook"/>
+  <img src="https://www.tensorflow.org/images/colab_logo_32px.png" width="40" alt="Google Colab"/>
 </p>
 
 ### My GitHub Stats
