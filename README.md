@@ -66,6 +66,7 @@ Feel free to check out my repositories and get in touch!
 
 ### My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MI-Mahin&layout=compact&langs_count=25)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MI-Mahin&layout=compact&langs_count=25&theme=dark)
+
 
 
