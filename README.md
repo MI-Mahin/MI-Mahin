@@ -54,6 +54,7 @@ Feel free to check out my repositories and get in touch!
 ### Cloud & DevOps
 <p> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
+  <img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg" alt="Vercel" width="40" />
 </p>
 
 ### Tools:
