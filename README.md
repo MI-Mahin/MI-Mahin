@@ -20,7 +20,11 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="center">
+  <img alt="Coding" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
+
+<br>
 
 ```javascript
 const mahin = {
@@ -38,7 +42,11 @@ const mahin = {
 
 <br>
 
+<div align="center">
+  
 💡 **Always open to collaborating on interesting projects and innovative ideas!**
+
+</div>
 
 ---
 
