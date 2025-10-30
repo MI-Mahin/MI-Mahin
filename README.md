@@ -43,6 +43,7 @@ Feel free to check out my repositories and get in touch!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="40" height="40"/>
 </p>
 
 ### Database:
@@ -65,13 +66,12 @@ Feel free to check out my repositories and get in touch!
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
   <img src="https://www.tensorflow.org/images/colab_logo_32px.png" width="40" alt="Google Colab"/>
 </p>
 
 ### My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MI-Mahin&layout=compact&langs_count=25&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MI-Mahin&layout=compact&langs_count=30&theme=dark)
 
 
 
