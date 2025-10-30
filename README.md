@@ -1,24 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mahmudul%20Islam%20Mahin&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:1E3A8A&height=200&section=header&text=Mahmudul%20Islam%20Mahin&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
-  
-</div>
-
-<div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=MI-Mahin&color=blueviolet&style=for-the-badge)](https://github.com/MI-Mahin)
+  [![Profile Views](https://komarev.com/ghpvc/?username=MI-Mahin&color=blue&style=for-the-badge)](https://github.com/MI-Mahin)
   [![GitHub followers](https://img.shields.io/github/followers/MI-Mahin?style=for-the-badge&color=blue)](https://github.com/MI-Mahin?tab=followers)
   [![GitHub Stars](https://img.shields.io/github/stars/MI-Mahin?style=for-the-badge&color=yellow)](https://github.com/MI-Mahin?tab=repositories)
   
 </div>
 
----
 
-## 👨‍💻 About Me
+## About Me
 
 <div align="center">
   <img alt="Coding" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -36,21 +29,17 @@ const mahin = {
     currentFocus: "Building scalable web applications",
     lifePhilosophy: "You are not a noob if you are improving regularly, 
                      even if it's at a turtle's pace.",
-    funFact: "I code because I have to, not because I want to 😄"
+    funFact: "I code because I have to, not because I want to"
 };
 ```
 
 <br>
 
 <div align="center">
-  
-💡 **Always open to collaborating on interesting projects and innovative ideas!**
-
 </div>
 
----
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
   
@@ -61,12 +50,12 @@ const mahin = {
 
 </div>
 
----
 
 
-## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## Tech Stack
+
+### Programming Languages
 
 <div align="center">
 
@@ -79,20 +68,19 @@ const mahin = {
 
 </div>
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
-### ⚙️ Backend Development
+### Backend Development
 
 <div align="center">
 
@@ -103,7 +91,7 @@ const mahin = {
 
 </div>
 
-### 🗄️ Databases
+### Databases
 
 <div align="center">
 
@@ -114,7 +102,7 @@ const mahin = {
 
 </div>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <div align="center">
 
@@ -124,7 +112,7 @@ const mahin = {
 
 </div>
 
-### 🔧 Tools & Technologies
+### Tools & Technologies
 
 <div align="center">
 
@@ -136,21 +124,16 @@ const mahin = {
 
 </div>
 
----
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MI-Mahin&layout=compact&langs_count=30&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MI-Mahin&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MI-Mahin&layout=compact&langs_count=30&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -160,32 +143,10 @@ const mahin = {
   </picture>
 </div>
 
----
+
 
 <div align="center">
-  
-  ### 💬 Random Dev Quote
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-  ### ✍️ Dev Joke
-  
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### Show some ❤️ by starring some of the repositories!
-  
-  ![](https://hit.yhype.me/github/profile?user_id=MI-Mahin)
-  
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:1E3A8A&height=100&section=footer"/>
 </div>
 
 
