@@ -141,29 +141,27 @@ const mahin = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MI-Mahin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MI-Mahin&theme=radical&hide_border=true" />
-  
 </div>
 
+<br>
+
 <div align="center">
-  
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MI-Mahin&layout=compact&langs_count=10&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MI-Mahin&theme=radical&hide_border=true&layout=compact" />
-  
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MI-Mahin&theme=radical&utcOffset=6" />
 </div>
 
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MI-Mahin&theme=react-dark&hide_border=true&area=true)
-  
-</div>
+<br>
 
 <div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=MI-Mahin&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MI-Mahin&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MI-Mahin&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" />
 </div>
 
 ---
