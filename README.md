@@ -140,38 +140,24 @@ const mahin = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MI-Mahin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MI-Mahin&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MI-Mahin&layout=compact&langs_count=30&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MI-Mahin&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MI-Mahin&theme=radical&utcOffset=6" alt="Productive Time" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MI-Mahin&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MI-Mahin&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MI-Mahin&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/MI-Mahin/MI-Mahin/output/github-contribution-grid-snake-dark.svg)
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MI-Mahin/MI-Mahin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MI-Mahin/MI-Mahin/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MI-Mahin/MI-Mahin/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
