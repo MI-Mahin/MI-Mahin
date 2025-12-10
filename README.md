@@ -27,9 +27,6 @@ const mahin = {
     location: "Bangladesh 🇧🇩",
     interests: ["Full Stack Development", "Cloud Computing", "AI/ML"],
     currentFocus: "Building scalable web applications",
-    lifePhilosophy: "You are not a noob if you are improving regularly, 
-                     even if it's at a turtle's pace.",
-    funFact: "I code because I have to, not because I want to"
 };
 ```
 
