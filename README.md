@@ -126,7 +126,7 @@ const mahin = {
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MI-Mahin&layout=compact&langs_count=30&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MI-Mahin&layout=compact&langs_count=30&theme=tokyonight&hide_border=true&count_private=false" alt="Top Languages" />
 </p>
 
 
